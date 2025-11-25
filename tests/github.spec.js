@@ -1,6 +1,7 @@
-//first code interaction commited
+//git commands
 //git add
 //git commit
 //git push
 //git add . to upload  multiple files 
 //git pull
+//git config
