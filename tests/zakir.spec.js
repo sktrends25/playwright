@@ -6,5 +6,5 @@
 //git pull
 //git config
 //git reset
-// git init
+// git 
 
