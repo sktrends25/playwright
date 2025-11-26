@@ -5,3 +5,4 @@
 //git add . to upload  multiple files 
 //git pull
 //git config
+//git reset
