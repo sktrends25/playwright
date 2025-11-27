@@ -5,3 +5,10 @@
 
 //
 //kaleeswaran
+// git status
+// it is used to check the unchanged changes which needs o be commit
+//git restore .
+//git restore (file name)
+//git push  -u origin java
+
+
