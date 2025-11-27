@@ -7,4 +7,4 @@
 //git config
 //git reset
 // git 
-
+//zakir 
