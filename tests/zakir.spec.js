@@ -6,5 +6,8 @@
 //git pull
 //git config
 //git reset
-// git 
-//zakir 
+// git hub
+//gitbash
+//push
+//pull
+//Jiraya
