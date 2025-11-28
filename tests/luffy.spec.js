@@ -27,3 +27,7 @@
     //git pull
     //git merge branchname
     //git push origin main
+
+//git branch -d  --> command to delete the branch 
+
+//git push origin --delete "branch name" --> command to delete the branch from the remte repository
