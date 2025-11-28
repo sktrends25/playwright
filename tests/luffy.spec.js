@@ -19,3 +19,11 @@
 
 //git push origin "branch name" --> It is used to push the committed changes into the branch
 
+
+//Correct order :
+
+    //git checkout main
+    //git branch
+    //git pull
+    //git merge branchname
+    //git push origin main
