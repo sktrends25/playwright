@@ -11,4 +11,5 @@
 //git restore (file name)
 //git push  -u origin java
 
-
+//git push
+//git pull
