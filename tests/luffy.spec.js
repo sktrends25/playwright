@@ -19,3 +19,15 @@
 
 //git push origin "branch name" --> It is used to push the committed changes into the branch
 
+
+//Correct order :
+
+    //git checkout main
+    //git branch
+    //git pull
+    //git merge branchname
+    //git push origin main
+
+//git branch -d  --> command to delete the branch 
+
+//git push origin --delete "branch name" --> command to delete the branch from the remte repository
